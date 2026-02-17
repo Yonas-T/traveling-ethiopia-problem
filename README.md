@@ -47,7 +47,7 @@ Combines backward cost g(n) with a heuristic estimate h(n) using f(n) = g(n) + h
 ### MiniMax Search
 Used for adversarial search. The agent (MAX) tries to maximize utility while the adversary (MIN) tries to minimize it. The goal of the agent is to reach to a state where it gains good quality of Coffee.
 
-## Tourist Cities (Q2.3)
+## Tourist Cities
 
 The multi-goal UCS visits these destinations starting from Addis Ababa:
 - **Axum** — Ancient obelisks
